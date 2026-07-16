@@ -1,16 +1,16 @@
 # Google Play Store Data Analysis Project 🚀
 
-> Project Dashboard: [View Interactive Power BI Report](INSERT_YOUR_PUBLIC_LINK_HERE)
+> Project Dashboard: [View Interactive Power BI Report](https://github.com/Joseph-Chibueze-Portfolio/google-play-store-analysis/blob/main/google%20play%20store%20dashboard.png)
 
-> Project Files: [Download .pbix Source File](INSERT_LINK_TO_YOUR_PBIX_FILE_IN_GITHUB)
+> Project Files: [Download .pbix Source File](https://github.com/Joseph-Chibueze-Portfolio/google-play-store-analysis/blob/main/google_playstore_2026.csv)
 
 ---
 
 ## Project Overview
 This project involved transforming a messy, raw dataset of 11,500+ Google Play Store entries into a clean, analytical-ready format. The goal was to uncover market trends, app performance metrics, and user preferences through data modeling and visualization in Power BI.
 
-## Dashboard Preview
-![Dashboard Overview](images/dashboard_screenshot.png)
+## Power Bi File
+![Power Bi File](https://github.com/Joseph-Chibueze-Portfolio/google-play-store-analysis/blob/main/Google%20playstore.pbix)
 
 ---
 
